@@ -6,7 +6,7 @@ export default function UploadPage() {
   return (
     <main className="min-h-dvh bg-bokeh flex flex-col">
       <Header
-        eyebrow="Graduación 2026"
+        eyebrow="Graduación Diego 2026"
         title="Comparte tus fotos"
         subtitle="Sube las fotos y videos que tomaste durante el festejo para el recuerdo de todos"
       />

@@ -117,7 +117,7 @@ export default function PhotoGrid({ photos }: PhotoGridProps) {
       {photos.map((photo) => (
         <figure
           key={photo.id}
-          className="relative group overflow-hidden rounded-lg border border-[#C7CDD6]/10 bg-[#0A1B33]"
+          className="relative group overflow-hidden rounded-lg border border-[#C7CDD6]/10 bg-[#0033A0]"
         >
           {photo.kind === "image" ? (
             <img
